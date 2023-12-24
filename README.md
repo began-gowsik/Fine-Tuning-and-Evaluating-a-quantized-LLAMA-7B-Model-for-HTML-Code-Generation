@@ -43,7 +43,7 @@ Explore two scenarios for using this integration:
 2- Load a Pre-Quantized Model from Hub:
 
 
-    Finally the Quantized model used here: TheBloke/Llama-2-7b-Chat-GPTQ
+    The Quantized model used here: TheBloke/Llama-2-7b-Chat-GPTQ
 
 2.  Data Set:
 
