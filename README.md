@@ -8,6 +8,8 @@ Fine-tune the Falcon 7B/LLAMA 7B model or another open-source language model to 
 
 Task Overview: Full code at Main_FT_Evaluation_with_API.ipynb
 
+The entire model was run on a free Google Colab T4 GPU
+
 1. Model Selection:
 
    Making LLMs lighter with AutoGPTQ and transformers
