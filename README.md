@@ -1,6 +1,5 @@
 
-# Fine-Tuning and Evaluating a LLM Model for HTML Code Generation
-## ML Intern Assignment - figr.design
+## Fine-Tuning and Evaluating a LLM Model for HTML Code Generation
 
 Objective:
 
